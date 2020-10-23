@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Rabota_S_File/1.0.0": {
+        "runtime": {
+          "Rabota_S_File.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rabota_S_File/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
